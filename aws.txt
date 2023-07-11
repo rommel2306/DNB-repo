@@ -1,3 +1,0 @@
-class AWS{
-console.log(variable)
-}
