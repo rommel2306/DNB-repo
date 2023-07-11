@@ -1,3 +1,6 @@
 class React{
 console.log(react developer)
+class a=100;
+class b=200;
+class c =300;
 }
